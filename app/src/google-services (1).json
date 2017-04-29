@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1050184064445",
+    "firebase_url": "https://login-5d936.firebaseio.com",
+    "project_id": "login-5d936",
+    "storage_bucket": "login-5d936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050184064445:android:a935a45790e22a14",
+        "android_client_info": {
+          "package_name": "com.example.shehani.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050184064445-0d2jovrpva2bidl4gn3gan34u8shfqo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk4gRp4zM77uiEWyKmv_4d8s5KLtvzQRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
